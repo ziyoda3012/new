@@ -27,6 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 new = "vcgvdjhbhcjbkbcknskncks"
+shop = "fgfgfgdsfjksdlsds"
 
 # Application definition
 
